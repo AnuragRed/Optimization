@@ -1,0 +1,2 @@
+Strategic capacity planning via MILP: GMC must decide whether to retool its Lyra and/or Libra plants to expand and flexibly allocate production capacity across three car lines 
+allocate production capacity across three car lines (Lyra, Libra, Hydra), balancing higher fixed retooling costs against increased capacity, lower marginal costs, and the ability to meet demand more profitably under reliable demand forecasts and demand diversion effects
